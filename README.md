@@ -1,7 +1,7 @@
 # Efficient-resampling-of-sensor-signals
 Efficient Resampling of Recorded Inertial Sensor Signals
 
-# 1. py_resample 
+# 1. Py_resample 
   is a python module that performs resampling using Sic Interpolation and Decimation along with Anti-Aliasing filter.
 
   usage: resample.py [-h] file_path filename rate
