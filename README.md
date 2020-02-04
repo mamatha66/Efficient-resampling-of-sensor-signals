@@ -24,10 +24,10 @@ Efficient Resampling of Recorded Inertial Sensor Signals
   usage: resample() from command window in MATLAB
 
   arguments:
-    * file_path   		Path to the input file
-    * filename       	Input filename
-    * current_frequency 	Sample Rate of the sensor data
-    * target_frequency	Sample rate the data must be resampled to
+  * file_path   		Path to the input file
+  * filename       	Input filename
+  * current_frequency 	Sample Rate of the sensor data
+  * target_frequency	Sample rate the data must be resampled to
 
   execution command from MATLAB command window: resample <file_path> <filename> <current_frequency> <target_frequency>
 
@@ -39,7 +39,7 @@ Efficient Resampling of Recorded Inertial Sensor Signals
   usage: mresample() from command window in MATLAB
 
   arguments:
-    * file_path   		Path to the input file
+  * file_path   		Path to the input file
     * filename       	Input filename
     * current_frequency 	Sample Rate of the sensor data
     * target_frequency	Sample rate the data must be resampled to
